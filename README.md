@@ -27,6 +27,6 @@ This project demonstrates an Augmented Reality (AR) application that inserts 3D 
 The system successfully inserted 3D objects onto planar surfaces in live video, providing a functional but improvable AR experience. Example results and videos are available in the results folder.
 
 ## References
-[Augmented Reality with Python and OpenCV - Part 1](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
-[Augmented Reality with Python and OpenCV - Part 2](https://bitesofcode.wordpress.com/2018/09/16/augmented-reality-with-python-and-opencv-part-2/)
-[GitHub: Augmented Reality Project](https://github.com/juangallostra/augmented-reality)
+* [Augmented Reality with Python and OpenCV - Part 1](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
+* [Augmented Reality with Python and OpenCV - Part 2](https://bitesofcode.wordpress.com/2018/09/16/augmented-reality-with-python-and-opencv-part-2/)
+* [GitHub: Augmented Reality Project](https://github.com/juangallostra/augmented-reality)
